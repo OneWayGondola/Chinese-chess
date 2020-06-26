@@ -1,4 +1,4 @@
-# Author: Christopher Vu
+# Author: OneWayGondola
 # Date: 3/3/2020
 # Description: Xiangqi. Chinese Chess.
 
